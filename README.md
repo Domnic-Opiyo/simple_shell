@@ -159,4 +159,4 @@ Make sure to replace the GitHub repository link with the correct URL for your re
 ## Authors
 
 - Addy Mwenda ([@addymwenda](https://github.com/addymwenda12))
-- Dominic Opiyo ([@dominicopiyo](https://github.Dominic-Opiyo))
+- Domnic Opiyo ([@domnicopiyo](https://github.Domnic-Opiyo))
